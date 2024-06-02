@@ -305,7 +305,7 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 2) talk about: #**RFC-0002 & #pr1606**
 
-2) Dynamic Proof to reduce circuit dependencies&memory resources cost → improve performances
+2) **Dynamic Proof** to reduce circuit dependencies&memory resources cost → improve performances
 
 **\<Video22> Gadgets**
 
@@ -321,7 +321,7 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 2) how to **verify Bitcoin block headers** using zero-knowledge proofs with o1js
 
-**\<Video24> Some Best Practices for zkApp**
+**\<Video24> Some good Practices for zkApp**
 
 1) about fetchActions & fetchEvents
 
