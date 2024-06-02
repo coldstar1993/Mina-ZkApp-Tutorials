@@ -133,14 +133,14 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
     2. private/public inputs & onchain states of a contract
     3. onchain states & offchain states
 
-**\<Video6>  ZkApps Getting Started**
+**\<Video6>  ZkApps Getting Started I**
 
 1) Install or update the zkApp CLI
 2) Create a project
 3) Add testing code
 4) Add functionality
 
-**\<Video7>  ZkApps Getting Started I**
+**\<Video7>  ZkApps Getting Started II**
 
 1) Create an integration test
 2) What’s LocalBlockchain
@@ -150,7 +150,7 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 3) Test locally
 
-**\<Video8>  ZkApps Getting Started II**
+**\<Video8>  ZkApps Getting Started III**
 
 1) What’s Lightnet 
 
@@ -158,13 +158,13 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 3) Test with Lightnet
 
-**\<Video9>  ZkApps Getting Started III**
+**\<Video9>  ZkApps Getting Started IV**
 
 1) DevNet & Faucet & MinaScan Explorer
 
 2) Test with a live network
 
-**\<Video10>  ZkApps Getting Started IV**
+**\<Video10>  ZkApps Getting Started V**
 
 1) Write a sample zkApp UI by Vite+Vue3 
 
