@@ -14,6 +14,8 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 4) **Framework Series(框架系列)**: share frameworks to accelerate zkApp development
 
+<br>
+
 # 《Starter Series》
 
 **\<Video1> Learn about Zero Knowledge Proof**
@@ -207,6 +209,8 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 3) What’s happenning under tx.prove/sign()
 
+<br>
+
 # 《Advanced Series》
 
 **\<Video13>  On-Chain Values**
@@ -285,6 +289,8 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 5) Intro about **o1js-merkle** & design usage samples
 
+<br>
+
 # 《Practices Series》
 
 **\<Video20> Cached Proving Key**
@@ -354,6 +360,8 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 2) Monitoring
 
 3) Archive Tooling
+
+<br>
 
 # 《Frameworks Series》
 
