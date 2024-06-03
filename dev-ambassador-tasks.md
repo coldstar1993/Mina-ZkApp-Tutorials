@@ -16,7 +16,7 @@ I plan to complete the account opening of mainstream media platforms in the firs
         
         <img src="./img/doc-translate-range1.jpg" width="20%" height="20%">
 
-* Translate the official blog of the last year and sync it to the online community (in the First 4 weeks in June)
+* Translate the official blog from the last year and sync it to the online community (in the First 4 weeks in June)
     * https://minaprotocol.com/blog
     * https://blog.o1labs.org/tagged/o1js
 
