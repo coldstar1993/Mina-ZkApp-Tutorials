@@ -2,8 +2,8 @@ As The China Developer Ambassador of Mina, my mission is to help build and suppo
 
 ## 《Stage I》
 I plan to complete the account opening of mainstream media platforms in the first week (for the time being, promote it in my own name) :
-* Video category: _Bilibili video_, _YouTube_
-* Technical forum blog categories: _wechat public account_, _CSDN_, _Juejin_, _V2EX_, _Zhihu_, _Notion_ and _SegmentFault_
+* Video category: _[Bilibili video](https://www.bilibili.com/)_, _[YouTube](https://www.youtube.com/)_
+* Technical forum blog categories: _[Wechat Official Account](https://mp.weixin.qq.com/)_, _[CSDN](https://www.csdn.net/)_, _[Juejin](https://juejin.cn/)_, _[V2EX](https://www.v2ex.com)_, _[Zhihu](https://www.zhihu.com/)_, _[Notion](https://www.notion.so/)_ and _[SegmentFault](https://segmentfault.com/)_
 
 
 ## 《Stage II》
