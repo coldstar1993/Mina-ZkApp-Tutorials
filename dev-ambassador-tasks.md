@@ -26,7 +26,7 @@ I plan to complete the account opening of mainstream media platforms in the firs
 2. **Community building and engagement** (estimated workload: *20% in 3 months*)
 * Build and manage online communities:
     * Manage the current wechat technical communication group, and **share and answer technical questions** in the group.
-    * Synchronize/publish the translated documentation, tutorials, blogs on developer platforms such as CSDN, Nuggets, SegmentFault, and V2EX.
+    * Synchronize/publish the translated documentation, tutorials, blogs on developer platforms such as CSDN, Juejin, SegmentFault, and V2EX.
 
 * Provide technical support:
     * **Provide technical support** for local developers who have questions while using Mina.
