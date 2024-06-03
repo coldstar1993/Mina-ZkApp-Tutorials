@@ -9,7 +9,7 @@ I plan to complete the account opening of mainstream media platforms in the firs
 ## 《Stage II》
 1. **Establish localized resources** (estimated workload: *60%+ in 3 months*)
 
-    _Tips: Three months is short that I plan to focus most on this part._
+    _Tips: Three months is a short time, I plan to focus mainly on this part, because this part is the most helpful for beginners to know and learn Mina&ZkApp in depth._
 
 *  Translate [Official Tech doc](https://docs.minaprotocol.com/)
     * Complete the doc translation (highlighted part, based on [doc git repo](https://github.com/o1-labs/docs2/)) in the First 2 weeks in June
