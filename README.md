@@ -80,7 +80,7 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 
 **\<Video4>  Intro on Mina Ecology & Community**
 
-1) into on o1js DSL
+1) intro on o1js DSL
 
     1. background of O1Labs & MF & Mina Protocol
     2. kimchi-pickles proof system from Plonk 
