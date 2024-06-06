@@ -46,7 +46,7 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
     5. …
 
 **\<Video2> What & Why & How of Mina chain**
-
+https://x.com/SoorajKSaju/status/1798328297874419925
 1)  Scalability&Privacy issue of current blockchain industry
 
 2)  Why&How Mina solves these issue
@@ -380,3 +380,9 @@ This tutorial will lead you step by step to go into Mina network and ZkApp Devel
 **\<Video28> Zeko**
 
 1) …TODO…
+
+**\<Video28> Integrate DA Layer -- Celestia**
+1) what's DA & Modular?
+2) working mechenism of Celestia
+3) DA issue of zkApp(Appchain)
+4) how your zkApp integrate with Celestia?
