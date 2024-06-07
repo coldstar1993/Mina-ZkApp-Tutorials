@@ -132,6 +132,10 @@ https://x.com/SoorajKSaju/status/1798328297874419925
     1. prover & verifier
     2. private/public inputs & onchain states of a contract
     3. onchain states & offchain states
+    4. !!!smart contract is the composition of zkProgram(pure ciruit) + precondition + onchain states
+        a. what are the underlying public-inputs and private-inputs?
+        b. how precondition works based on onchain states?
+        c. `proofAuth` at `AccountUpdate` is the result from zkProgram(pure ciruit)
 
 **\<Video6>  ZkApps Getting Started I**
 
