@@ -200,6 +200,7 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 1) transaction strutures
 
     1. { feePayer, accountUpdates: [...], memo }
+    2. MIP: https://github.com/MinaProtocol/MIPs/blob/main/MIPS/mip-0004-zkapps.md
 
 2) AccoutUpdates & Account update tree structures
 
@@ -278,6 +279,12 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 2) Design a sample for ProofAuth
 
 2) Inspect into TokenContract source code & basic usage
+
+**\<Video18.5> review and deploy Mina Fungile Token Standard**
+
+1) repo: https://github.com/coldstar1993/mina-fungible-token/blob/main/FungibleToken.ts
+2) MIP: https://github.com/o1-labs/rfcs/blob/main/0014-fungible-token-standard.md
+
 
 **\<Video19>  Off-Chain Storage**
 
@@ -367,6 +374,7 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 
 <br>
 
+
 # 《Frameworks Series》
 
 **\<Video27> Protocol development framework**
@@ -385,7 +393,7 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 
 1) …TODO…
 
-**\<Video28> Integrate DA Layer -- Celestia**
+**\<Video29> Integrate DA Layer -- Celestia**
 1) what's DA & Modular?
 2) working mechenism of Celestia
 3) DA issue of zkApp(Appchain)
