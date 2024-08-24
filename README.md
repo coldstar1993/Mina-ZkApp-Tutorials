@@ -253,7 +253,7 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 **\<Video16>  Actions & Reducer**
 
 1) What&Why of Action(SequencedEvent) and related #issue #pr
-
+    example reference: https://zknoid.medium.com/mina-action-reducers-guide-why-we-need-them-81b6836c1700
 2) Mechenism of 5 onchain ActionState
 
 3) this.reducer.reduce(*) & Actions.updateSequenceState(*)
