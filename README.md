@@ -61,7 +61,11 @@ https://x.com/SoorajKSaju/status/1798328297874419925
     1. zkApps Smart Contracts based on O1js
     2. What’s **Httpz** & #ProofOfEverything
     3. Future expectations - How to **interoperate** with other blockchains(eth/evm chains,etc.)
-    4. …
+       1. With Aligned Layer
+            https://x.com/alignedlayer/status/1823660831084826856
+            https://x.com/alignedlayer/status/1829566074821747071
+            https://x.com/alignedlayer/status/1829504890227527717
+    5. …
 
 **\<Video3>  First Look at Mina**
 
