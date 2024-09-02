@@ -402,3 +402,12 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 2) working mechenism of Celestia
 3) DA issue of zkApp(Appchain)
 4) how your zkApp integrate with Celestia?
+
+**\<Video30> Integrate With Aligned Layer**
+  * https://x.com/alignedlayer/status/1823660831084826856
+  * https://x.com/alignedlayer/status/1829566074821747071
+  * https://x.com/alignedlayer/status/1829504890227527717
+
+
+
+
