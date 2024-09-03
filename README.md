@@ -150,7 +150,7 @@ https://x.com/SoorajKSaju/status/1798328297874419925
 
 **\<Video7>  ZkApps Getting Started II**
 
-1) Create an integration test
+1) Create an Unit test
 2) What’s LocalBlockchain
 
     1. test accounts
