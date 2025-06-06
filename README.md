@@ -1,3 +1,5 @@
+This serial is carried out within [Mina x OpenBuild zkApp 训练营 ](https://github.com/openbuildxyz/mina-zkapp-bootcamp)
+
 # Tutorial Video - Step into Mina ZkApp Development
 
 Created by: coldstar1993
