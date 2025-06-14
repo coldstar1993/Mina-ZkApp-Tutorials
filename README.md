@@ -1,12 +1,11 @@
 This serial is carried out within [Mina x OpenBuild zkApp 训练营 ](https://github.com/openbuildxyz/mina-zkapp-bootcamp), videos in [youtube](https://www.youtube.com/watch?v=4a8n7A2fGZs&list=PLHNmWBpo58LWuKsyOF1qCe5qM9W45CAlV). Here is the [activity page](https://openbuild.xyz/learn/challenges/2051400317)
 
-# Mina x OpenBuild zkApp 训练营
 **[Mina Protocol](https://minaprotocol.com/)** 携手 **[OpenBuild](https://openbuild.xyz/)** 推出为零知识证明开发者设计的 Bootcamp，助力开发者可以从零开始学习在 Mina Protocol 构建 ZK 驱动的应用（zkApp）。无论你是否接触过 ZK 技术，只要具备前端基础知识，便能在指导下顺利掌握 zkApp 开发要领，成为区块链领域中最新创新的见证者和实践者！
 
 
 ## Tutorial Video - Step into Mina ZkApp Development
 
-Created by: coldstar1993  Created time: June 2, 2024 1:51 PM  Tags: Mina, zkApp
+Created by: [coldstar1993](https://github.com/coldstar1993/) &nbsp;&nbsp; Created time: June 2, 2024 1:51 PM &nbsp;&nbsp; Tags: Mina, zkApp
 
 This tutorial will lead you step by step to go into Mina network and ZkApp Development. The video tutorials cover 4 series:
 
